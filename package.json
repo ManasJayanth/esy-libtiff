@@ -17,6 +17,8 @@
       "make install"
     ]
   },
-  "dependencies": {},
+  "dependencies": {
+    "esy-libjpeg": "prometheansacrifice/libjpeg-turbo#50e8e32c48fbe3494a7b8403d019bcb3bd2a9d9b"
+  },
   "resolutions": {}
 }
